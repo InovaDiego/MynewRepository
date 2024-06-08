@@ -18,7 +18,7 @@ public class JavaPalindromo{
             String cadena = sn.next();
              invertirCadena Cadenas = new invertirCadena(); 
              String invertirCadena;
-            Cadenas.invertirCadenaString(invertirCadena);
+            
 
 
 
